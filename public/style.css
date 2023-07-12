@@ -1,0 +1,47 @@
+
+
+body{
+    background-color: rgb(227, 219, 219);
+    /* background-image: url(https://picsum.photos/seed/picsum/1400/1400);
+     background-repeat: no-repeat;
+     background-size: contain; */
+}
+form{
+    /* margin:20px; */
+    color: rgb(233, 225, 225);
+}
+h1{
+    text-align: center;
+    color: whitesmoke;
+
+}
+form{
+    margin-top:10%;
+    border-color: 3px solid black;
+    border-radius: 9999px;
+}
+input{
+    border-radius: 9999px;
+  
+}
+textarea{
+    width:30%;
+    border-radius: 9999px;
+    border-color: rgb(212, 21, 21);
+    padding:20px;
+    margin-top:20px;
+}
+button{ 
+    width:15%;
+    height:30px;
+    border-color: red;
+    border-radius:9999px;
+    text-align: center;
+    margin-left:40%;
+   
+    
+    
+}
+a{
+    color: brown;
+}
